@@ -19,3 +19,8 @@ table {
   margin-right: auto;
   border-radius: 4px;
 }
+
+.form-control input[type='text'] {
+ text-align: right;
+ text-emphasis:inherit;
+}
